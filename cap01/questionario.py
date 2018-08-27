@@ -9,7 +9,7 @@ from pandasutils.pandasutils import frequency, frequency_by_natural_order, \
 pd.set_option('precision', 2)
 pd.options.display.float_format = '{:,.2f}'.format
 
-df = pd.read_csv('../files/cap01/questionario_aspas.csv')
+df = pd.read_csv('../files/cap01/questionario.csv')
 print(df.describe())
 
 age = frequency_by_natural_order(df, 'Idade')
