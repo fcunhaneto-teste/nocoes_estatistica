@@ -1,0 +1,19 @@
+Descrição das variáveis do arquivo CANCER.TXT:
+
+
+	coluna 1: Identificação do paciente.
+	coluna 2: Diagnóstico: 
+		1 = Falso-negativo: diagnosticados como não tendo a 
+			doença quando na verdade a tinham. 
+		2 = Negativo: diagnosticados como não tendo a doença 
+			quando de fato não não a tinham. 
+		3 = Positivo: diagnosticados corretamente como tendo a doença.
+		4=Falso-positivo: diagnosticados como tendo a doença quando na 
+			verdade não tinham.
+	coluna 3: Idade.
+	coluna 4: Espectro químico da análise do sangue-alkaliine phosphatose (AKP). 
+	coluna 5: Concentração de fosfato no sangue (P).
+	coluna 6: Enzima, lactate dehydrogenase (LDH).
+	coluna 7: Albumina (ALB).
+	coluna 8: Nitrogênio na uréia (N).
+	coluna 9: Glicose (GL).

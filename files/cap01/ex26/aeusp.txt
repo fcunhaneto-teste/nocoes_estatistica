@@ -1,0 +1,386 @@
+  Num      Comun     Sexo     Idade   Ecivil      Reproce     Temposp      Resid     Trab    Ttrab     Itrab     Renda      Acompu     Serief
+   1     JdRaposo      2        4        4       Nordeste        21          9        3                 20         1          2          1
+   2     JdRaposo      2        1        1       Sudeste         24          9        1        1        14         2          2          7
+   3     JdRaposo      2        2        1       Nordeste        31          3        1        1        14         5          2          7
+   4     JdRaposo      1        2        2       Nordeste        10          3        1        4        10         5          2          11
+   5     JdRaposo      2        4        2       Nordeste        31          6        1        1        11         6          1          4
+   6     JdRaposo      2        4        2       Sudeste         24          4        2                 15         4          2          4
+   7     JdRaposo      1        1        1       Sudeste         20          4        1        1        15         6          2          11
+   8     JdRaposo      2        1        1       Sudeste         20          4        1        1        20         6          1
+   9     JdRaposo      2        4        2       Sudeste         46          3        1        1        14         5          2          11
+   10    JdRaposo      2        4        2       Sudeste         20          5        1        2         9         3          2
+   11    JdRaposo      2        3        2       Nordeste        11          7        1        2         7         3          2          2
+   12    JdRaposo      1        3        2       Nordeste        18          4        1        4         4         1          2          5
+   13    JdRaposo      2        1        2       Nordeste        29          5        2                            4          2          10
+   15    JdRaposo      2        1        1       Sudeste         16          3        2                            2          2
+   16    JdRaposo      2        3        3       Nordeste        20          7        1        2        12         4          2          5
+   17    JdRaposo      2        2        2       Sudeste         33          10       1        4        17         6          2          11
+   18    JdRaposo      1        4        2       Sudeste         45          4        1        4         7         5          2          8
+   19    JdRaposo      1        4        2         Sul           25          4        1        1        12         3          2          8
+   20    JdRaposo      2        4        2       Sudeste         30          4        1        1        18         6          1          11
+   21    JdRaposo      2        2        2         Sul           30          7        1        2        12         6          2          5
+   22    JdRaposo      2        2        2       Sudeste         29          4        2                 15         6          2          10
+   23    JdRaposo      1        1        2       Sudeste         20          4        1        2        14         5          2          10
+   25    JdRaposo      1        1        1       Sudeste         18          4        2                            4          2
+   26    JdRaposo      2        3        2       Nordeste        15          6        1        2        34         2          1
+   28    JdRaposo      2        3        1       Sudeste         12          4        3                 10         3          2
+   29    JdRaposo      2        3        1       Sudeste         30          4        2                            4          2          4
+   30    JdRaposo      1        4        4       Nordeste        6           3        3                  7         2          2
+   31    JdRaposo      1        4        1       Nordeste        27          1        2                 15         1          2          1
+   32    JdRaposo      1        3        1       Nordeste        25          4        1        1        12         5          2          5
+   33    JdRaposo      2        3        1        Norte          25          7        2                  7         3          2
+   34    JdRaposo      2        3        2       Nordeste        15          5        1        2        12         4          2
+   35    JdRaposo      1        1        1       Sudeste         15          7        2                            6          1
+   36    JdRaposo      1        4        2       Nordeste        15          4        1        1        10         3          2          3
+   37    JdRaposo      1        2        5       Nordeste        12          4        1        2        10         2          2          4
+   38    JdRaposo      2        1        1       Sudeste         16          9        2                 11         4          2          5
+   39    JdRaposo      2        3        1       Sudeste         35          3        2                 12         1          2          6
+   40    JdRaposo      1        1        1       Nordeste        15          4        1        4        16         2          2          8
+   41    JdRaposo      1        1        1       Sudeste         18          9        1        2        14         5          2          10
+   42    JdRaposo      2        2        5       Nordeste        10          4        2                 12         2          2          7
+   43    JdRaposo      2        2        1       Nordeste        13          9        1        1        19         4          2          11
+   44    JdRaposo      1        3        2       Nordeste        18          3        1        4         5         5          1          4
+   45    JdRaposo      1        4        2       Nordeste        27          3        3                  7         4          2
+   46    JdRaposo      2        1        5       Nordeste        26          3        2                 15         3          2          10
+   47    JdRaposo      2        1        5       Sudeste         21          4        2                 16         4          2          7
+   48    JdRaposo      1        1        2       Sudeste         22          2        1        4        12         3          2          11
+   49    JdRaposo      2        4        2       Nordeste        20          8        2                            6          1          4
+   50    JdRaposo      1        1        1       Nordeste        4           2        1        1        18         3          2
+   51    JdRaposo      2        1        1       Nordeste        6           3        1        4        17         5          2          8
+   52    JdRaposo      2        2        1       Sudeste         27          4        1        4        13         1          2          6
+   53    JdRaposo      2        4        3       Sudeste         30          4        2                  8         3          2          2
+   54    JdRaposo      1        2        1       Nordeste        11          4        1        1         7         3          2          10
+   55    JdRaposo      2        4        2       Nordeste        13          7        2                 12         1          2          4
+   56    JdRaposo      1        2        2       Nordeste        5           2        1        1        22         4          2          3
+   57    JdRaposo      2        2        5       Nordeste        7           3        2                 18         1          2          2
+   58    JdRaposo      2        2        2       Nordeste        20          3        2                 19         3          2          5
+   59    JdRaposo      1        3        2       Nordeste        20          2        1        2        17         4          2          6
+   60    JdRaposo      1        2        2       Nordeste        30          4        1        4        12         3          2          4
+   61    JdRaposo      1        1        1       Sudeste         15          3        2                            3          2          5
+   62    JdRaposo      2        1        1       Sudeste         20          6        2                 14         4          2          10
+   63    JdRaposo      2        2        1       Nordeste        4           5        1        1        17         4          2          12
+   64    JdRaposo      2        2        2       Nordeste        28          7        2                 15         3          2          5
+   65    JdRaposo      1        3        2       Sudeste         21          6        1        4        15         5          2          5
+   66    JdRaposo      2        2        2       Sudeste         25          3        1        2        12         1          2          4
+   67    JdRaposo      2        2        1       Sudeste         28          5        2                 13         1          2          2
+   68    JdRaposo      2        2        1       Sudeste         26          4        1        2         9         4          2          7
+   69    JdRaposo      2        4        1       Sudeste         20          2        1        2        15         1          2          3
+   76    JdRaposo      2        4        1       Nordeste        30          1        3                 11         2          2          2
+   77    JdRaposo      1        1        2       Sudeste         23          3        1        1        16         4          1          11
+   78    JdRaposo      1        2        2       Nordeste        18          3        1        1        15         4          1          11
+   79    JdRaposo      1        3        2       Nordeste        30          4        1        1        14         4          2          6
+   80    JdRaposo      1        3        3       Nordeste        15          1        1        2        15         3          1          10
+   81    JdRaposo      1        4        2       Nordeste        15          3        2                  8         3          2          3
+   86    JdRaposo      2        1        1         Sul           10          3        2                            6          1
+   87    JdRaposo      2        1        1       Sudeste         21          8        2                 11         2          2          5
+   88      Cohab       1        2        2       Nordeste        5           6        1        3        10         5          2
+   94    JdRaposo      2        4        4       Sudeste         67          2        3                  9         1          2
+   95    JdRaposo      2        3        5       Nordeste        12          8        1        2        15         4          2          1
+   96    JdRaposo      1        3        1       Nordeste        15          6        1        1        19         4          2          1
+   97    JdRaposo      1        4        2       Sudeste         40          3        1        1        15         6          1          5
+   98    JdRaposo      1        3        2       Nordeste        15          6        1        2         8         4          1          5
+   99    JdRaposo      2        4        1       Nordeste        26          5        1        4        10         4          2          4
+  100    JdRaposo      1        1        1       Sudeste         18          4        1        1        14         4          1          9
+  101      Cohab       2        4        3       Nordeste        51          1        2                 18         4          2          4
+  102      Cohab       2        2        5       Sudeste         34          4        2                 13         2          2          4
+  103      Cohab       1        4        2       Nordeste        45          4        1        4         9         5          2          2
+  104      Cohab       2        1        1       Nordeste        11          4        2                            4          1          2
+  106      Cohab       1        1        1       Sudeste         21          3        1        2        13         4          2          11
+  108      Cohab       1        3        2       Sudeste         41          4        1        1        16         4          2          10
+  109      Cohab       2        3        2       Nordeste        3           6        2                 20         4          2          4
+  110      Cohab       1        4        1       Nordeste        37          1        3                 14         2          2          9
+  111      Cohab       2        1        1       Sudeste         15          8        2                  9         3          1
+  118      Cohab       2        3        2       Sudeste         21          4        1        4        10         4          2          8
+  119      Cohab       2        1        1       Sudeste         40          3        1        3        24         5          1          12
+  120      Cohab       2        1        1       Sudeste         21          5        2                 15         5          2          11
+  121      Cohab       2        1        2       Sudeste         21          4        2                 15         5          1          10
+  122      Cohab       2        2        1       Sudeste         27          6        1        1        19         6          1          12
+  123      Cohab       2        2        2       Sudeste         27          4        2                 18         4          2          9
+  124      Cohab       2        2        1       Sudeste         30          4        1        1        13         5          1          9
+  125      Cohab       1        2        2       Sudeste         26          3        1        1        14         4          2
+  126      Cohab       2        2        2       Sudeste         26          6        1        2        12         3          2          7
+  127      Cohab       2        3        1       Nordeste        25          2        1        1         8         3          1          2
+  128      Cohab       2        4        1       Nordeste        15          1        1        4        13         4          2          2
+  129      Cohab       1        4        2       Nordeste        43          2        1        3         9         5          2          6
+  130      Cohab       2        2        2       Nordeste        19          4        2                            4          2          4
+  131      Cohab       1        4        2       Sudeste         39          4        1        1         9         4          2          3
+  132      Cohab       2        3        2       Sudeste         40          4        2                 16         4          2          4
+  133      Cohab       2        1        1       Sudeste         14          3        2                            4          2          8
+  134      Cohab       2        3        2       Nordeste        38          3        1        4        12         6          1          11
+  135      Cohab       2        1        1       Nordeste        3           5        2                 16         4          1          7
+  136      Cohab       2        3        1       Nordeste        9           6        1        1         5         4          2          2
+  138      Cohab       2        2        1       Sudeste         30          5        1        3        14         4          2          4
+  139      Cohab       2        1        1       Sudeste         24          3        2                 13         5          1          8
+  140      Cohab       1        2        2       Nordeste        2           4        1        1        12         3          2
+  141      Cohab       2        2        2     Centro-oeste      32          5        1        3        15         4          1          11
+  142      Cohab       2        3        5       Sudeste         41          2        2                  8         4          1          11
+  143      Cohab       1        1        1       Sudeste         16          5        2                            4          2
+  144      Cohab       2        3        2       Nordeste        14          4        1        4        12         2          2
+  146      Cohab       2        1        1       Sudeste         15          3        2                            6          1
+  147      Cohab       2        3        2       Sudeste         39          3        1        4        11         5          1          10
+  148      Cohab       1        3        2       Sudeste         38          2        1        4        13         2          2          7
+  149      Cohab       2        1        2       Sudeste         23          5        2                 13         3          2          11
+  150      Cohab       2        2        2       Nordeste        10          3        2                 18         5          2          10
+  151      Cohab       2        4        3       Nordeste        48          2        1        1        12         6          2          7
+  152      Cohab       2        4        2     Centro-oeste      27          3        2                 19         6          1          12
+  153      Cohab       2        4        2       Sudeste         47          4        2                 14         5          1          11
+  154      Cohab       1        3        2       Sudeste         36          3        2                 15         4          2          5
+  155      Cohab       2        3        2        Norte          25          4        1        4        20         6          1          11
+  156      Cohab       2        3        2       Sudeste         36          3        2                 13         4          2          11
+  157      Cohab       1        1        1       Sudeste         22          4        1        4        12         4          2          9
+  158      Cohab       2        1        2         Sul           2           2        2                 15         4          2          11
+  159      Cohab       2        1        1       Sudeste         18          4        2                            4          1          9
+  162      Cohab       2        1        1       Nordeste        10          3        2                 14         2          2          2
+  163      Cohab       2        1        5       Nordeste        1           8        1        2        12         4          2          7
+  164      Cohab       2        3        2       Sudeste         35          5        2                 16         4          2          9
+  165      Cohab       2        3        3       Nordeste        25          5        1        2        18         6          2          11
+  166      Cohab       1        1        1       Sudeste         17          5        2                            3          1
+  167      Cohab       2        3        1       Nordeste        15          2        2                 12         6          2          10
+  168      Cohab       2        4        4       Sudeste         52          4        3                 13         4          2          4
+  169      Cohab       2        2        2       Sudeste         5           3        2                  9         5          2          10
+  170      Cohab       1        1        1       Sudeste         1           7        1        1        14         4          2          11
+  171      Cohab       2        1        1       Sudeste         14          8        2                            4          2
+  172      Cohab       2        1        1       Nordeste        22          10       1        2        15         5          2          11
+  177      Cohab       2        2        2       Nordeste        16          2        1        4        20         6          2          11
+  178      Cohab       1        1        1       Sudeste         6           5        1        1        16         3          2          11
+  179      Cohab       2        3        1       Nordeste        12          3        1        1         8         3          2          2
+  180      Cohab       1        3        2       Nordeste        25          5        1        4         5         6          2          4
+  181      Cohab       2        3        2       Sudeste         33          4        2                  7         6          2          8
+  182      Cohab       2        1        1       Sudeste         1           9        1        2        17         4          2          6
+  183      Cohab       2        2        1       Nordeste        23          10       1        2        12         4          2          8
+  192      Cohab       2        2        1       Nordeste        3           2        2                 29         1          2          7
+  193      Cohab       1        1        1       Nordeste        1           4        1        1        12         5          1          4
+  194      Cohab       2        2        2       Sudeste         11          7        1        4         7         2          2
+  195      Cohab       2        3        5       Sudeste         30          4        1        1        20         4          2          1
+  196      Cohab       2        4        1     Centro-oeste      35          5        1        1        12         2          2
+  197      Cohab       2        1        1       Sudeste         19          3        1        1        16         4          2          11
+  198      Cohab       2        3        2       Sudeste         42          4        1        1        16         4          1          8
+  199      Cohab       2        3        2       Sudeste         25          2        1        1        16         6          1          6
+  200      Cohab       2        2        1       Nordeste        8           5        2                 16         3          2          4
+  201      Sapé        1        4        1       Nordeste        28          6        2                 18         1          2          5
+  203      Sapé        1        2        5       Nordeste        6           6        1        1        10         3          1
+  204      Sapé        1        1        1       Nordeste        16          5        1        4                   5          2
+  205      Sapé        1        1        1       Sudeste         17          3        1        4        14         5          2          7
+  206      Cohab       2        2        5       Sudeste         28          4        2                 18         6          2          3
+  207      Sapé        1        3        5       Nordeste        22          3        1        4         7         2          2
+  208      Sapé        1        1        1       Sudeste         21          6        1        2        16         3          2          9
+  209      Sapé        1        2        1       Nordeste        18          4        1        2        10         2          2          5
+  210      Sapé        1        1        1       Nordeste        1           4        1        2        11         6          1
+  211      Sapé        2        1        2       Nordeste        2           3        1        2        22         2          2          11
+  212      Sapé        2        1        1         Sul           17          4        1        1        11         4          2          6
+  213      Sapé        2        2        5       Sudeste         34          6        1        2        10         2          2          1
+  214      Sapé        1        4        2       Sudeste         30          5        1        4        15         4          2          4
+  215      Sapé        1        3        2         Sul           42          5        1        4         7         4          2          8
+  216      Sapé        2        2        2       Nordeste        13          3        1        4        13         3          2          2
+  217      Sapé        1        2        2       Nordeste        4           3        2                  8         2          2          7
+  218      Sapé        1        4        2       Nordeste        26          5        2                 16         4          2          8
+  219      Sapé        2        4        1       Sudeste         48          2        1        1        15         4          2
+  220      Sapé        2        3        2       Sudeste         30          3        1        3        14         3          2          8
+  221      Sapé        2        1        1       Sudeste         19          8        1        4        15         1          2          8
+  222      Sapé        1        1        1       Sudeste         17          4        1        4         8         2          2          1
+  223      Sapé        2        1        1       Nordeste        17          10       2                 18         1          2          10
+  224      Sapé        2        1        5       Sudeste         23          4        2                 12         2          2          8
+  225      Sapé        2        1        1       Sudeste         7           10       1        2        18         4          2          5
+  226      Cohab       1        4        2       Sudeste         40          3        1        4        12         4          2          3
+  227      Cohab       1        3        2       Nordeste        28          4        1        1        12         6          1          11
+  229      Sapé        1        4        2       Nordeste        20          4        2                  8         2          2          2
+  230      Sapé        2        1        1       Sudeste         21          9        1        4        15         2          2          4
+  231      Sapé        2        2        2       Nordeste        4           5        1        1        11         2          2          3
+  232      Sapé        2        4        2       Nordeste        25          5        1        4         8         2          2
+  233      Sapé        1        2        2       Nordeste        2           4        1        2        12         3          2          4
+  235      Sapé        1        1        2       Nordeste        13          3        1        2        16         4          2          8
+  236      Sapé        1        3        2       Nordeste        24          7        1        4        12         4          2          7
+  237      Sapé        1        1        1       Nordeste        7           4        1        4        13         3          1
+  238      Cohab       2        3        2       Sudeste         43          4        1        3         5         1          1          4
+  241      Cohab       2        1        1       Sudeste         18          3        2                            4          2          4
+  242      Sapé        1        4        2       Sudeste         15          8        3        1         8         1          2
+  244      Sapé        2        4        1         Sul           5           3        1        1        28         2          2          5
+  245      Sapé        2        2        1       Sudeste         26          2        1        4        14         3          2          9
+  246      Sapé        1        1        5       Sudeste         19          7        1        4        11         4          1
+  247      Sapé        1        1        1       Sudeste         18          10       1        4                   6          2
+  248      Sapé        1        2        1       Sudeste         32          9        1        4        12         3          2          5
+  249      Sapé        2        3        2       Nordeste        1           6        2                  9         4          2
+  250      Sapé        2        2        2       Nordeste        6           4        1        4        12         2          2          7
+  251      Sapé        2        2        2       Nordeste        4           4        2                 24         3          2          6
+  252      Sapé        1        1        2       Nordeste        6           3        1        1        16         3          2          3
+  253      Sapé        2        1        2       Nordeste        9           7        2                  9         2          2
+  254      Sapé        2        1        2       Sudeste         20          3        1        4        14         2          2          6
+  255      Sapé        1        2        2       Sudeste         10          3        1        1        15         3          2          6
+  256      Sapé        1        1        1       Sudeste         24          1        1        4        14         1          1          11
+  258     VDalva       1        2        1       Nordeste        14          3        1        2         7         5          1          1
+  259      Sapé        2        1        1       Sudeste         20          7        1        4        18         3          1          6
+  261      Sapé        2        1        2       Nordeste        4           2        2                 14         4          2          5
+  262      Sapé        1        2        2       Sudeste         27          4        1        1        16         3          2          9
+  265     VDalva       1        4        2       Nordeste        34          1        1        4        15         2          2          1
+  267      Sapé        2        1        2       Sudeste         24          4        1        4        16         4          2          9
+  268      Sapé        2        1        2       Nordeste        10          3        1        1        19         2          2          4
+  269      Sapé        1        3        2       Nordeste        10          6        1        4        12         4          2          5
+  270      Cohab       2        1        1       Sudeste         11          3        1        3        13         5          2          8
+  271      Sapé        1        1        1       Nordeste        3           1        1        1        14         4          2          11
+  272      Sapé        1        4        2       Nordeste        9           3        1        1         8         4          2          2
+  273      Sapé        1        3        2       Nordeste        8           4        2                 17         2          2          8
+  274      Cohab       1        2        2       Nordeste        19          4        1        3        12         5          2          6
+  275      Cohab       1        2        2        Norte          2           3        1        4        10         5          1          11
+  276      Sapé        2        1        2       Sudeste         24          7        2                 13         2          2          4
+  277      Cohab       2        3        5       Nordeste        20          3        2                 18         1          2          1
+  278      Sapé        2        4        1       Sudeste         50          4        1        4        18         4          1          8
+  279      Sapé        1        2        2       Sudeste         32          9        2                 10         1          2          1
+  280      Sapé        1        2        1       Nordeste        10          7        2                 10         1          2
+  300      V1010       1        1        1       Sudeste         17          7        1        2        16         4          2
+  301      V1010       2        2        1       Sudeste         25          4        1        4        17         2          2          8
+  302      V1010       1        1        2       Nordeste        11          6        1        4        17         3          2          7
+  303      V1010       2        4        2       Sudeste         30          4        1        4        17         5          1          4
+  304      V1010       2        1        1       Sudeste         20          7        1        4        19         2          1          10
+  305      V1010       1        3        1       Sudeste         9           4        1        1        18         5          2          6
+  306      V1010       1        2        1       Sudeste         28          6        1        4        13         4          2          8
+  307      V1010       1        3        1       Nordeste        24          1        1        4        11         2          2          2
+  308      V1010       2        4        2       Nordeste        12          5        2                            1          2          1
+  309      V1010       2        2        1       Sudeste         8           3        1        1         7         3          2          11
+  310      V1010       2        1        5       Nordeste        6           4        1        4        12         2          2          2
+  311      V1010       1        3        5       Nordeste        11          7        1        2        10         2          2          1
+  312    JddAbril      1        2        2       Nordeste        8           3        1        1        17         3          2          5
+  313    JddAbril      1        2        2       Nordeste        30          6        2                  9         4          2          5
+  314    JddAbril      2        1        2       Nordeste        1           4        2                 12         4          2          3
+  315     VDalva       2        4        4       Nordeste        20          5        1        4        13         3          2          2
+  316      V1010       1        4        2       Sudeste         18          5        1        4        16         5          1          11
+  317      V1010       1        1        1       Sudeste         18          6        2                 15         3          2
+  318      V1010       1        2        1       Nordeste        21          1        3                  7         1          2          6
+  319      V1010       2        1        1       Nordeste        12          8        2                 18         2          2
+  320      V1010       2        4        4       Nordeste        12          1        1        3        15         1          2
+  321      V1010       1        2        1       Sudeste         29          2        2                 16         3          1          11
+  322      V1010       2        1        1       Sudeste         15          9        2                            3          2
+  323      V1010       1        1        1       Sudeste         19          5        1        2        10         5          1
+  324    JddAbril      2        2        5       Nordeste        10          6        2                 13         2          2          1
+  327     VDalva       1        4        2       Sudeste         37          5        1        4        12         4          2          4
+  328    JddAbril      2        3        2       Nordeste        13          5        1        2        12         2          2          1
+  329    JddAbril      1        2        2       Nordeste        8           4        1        4         8         4          2          4
+  331      V1010       2        3        1       Nordeste        15          5        1        4        14         4          2          9
+  332      V1010       1        4        4       Nordeste        25          3        1        4         7         6          2          7
+  333      V1010       2        2        2         Sul           9           3        2                 20         3          2
+  334      V1010       1        4        2       Sudeste         20          6        1        2        12         4          2          5
+  335      V1010       1        4        2       Sudeste         23          6        1        4         8         3          2          2
+  336      V1010       1        2        1       Sudeste         28          7        1        2         7         5          2          7
+  337      V1010       1        4        2       Nordeste        7           4        1        1        10         4          2
+  338      V1010       2        2        5       Nordeste        5           3        1        1        16         4          2          8
+  339      V1010       1        2        2       Nordeste        14          5        1        4        16         5          2          5
+  340      V1010       2        2        1       Sudeste         13          2        1        4        20         3          2          11
+  341     VDalva       2        1        1       Sudeste         33          5        2                            4          2
+  344     VDalva       2        1        1       Sudeste         16          6        2                 11         3          2          9
+  345     VDalva       2        2        1       Sudeste         25          4        2                 10         2          1          11
+  346     VDalva       1        4        2       Nordeste        25          4        2                 19         2          2
+  347      V1010       2        2        1       Sudeste         26          5        1        2        21         4          1          11
+  348      V1010       2        2        1       Sudeste         28          2        1        2        16         1          2          6
+  349      V1010       1        1        1       Sudeste         11          5        2                 14         4          2          11
+  350      V1010       2        4        5       Sudeste         38          5        2                  8         4          2          2
+  351      V1010       2        4        2       Nordeste        29          3        1        1        22         2          2
+  352      V1010       2        3        2       Nordeste        6           6        2                 12         1          2          4
+  353      V1010       2        2        5       Nordeste        5           3        2                 15         3          2          11
+  354      V1010       2        2        1       Nordeste        8           3        1        2        15         2          2          2
+  355      V1010       1        1        1       Nordeste        6           4        1        2         7         2          2
+  356      V1010       2        2        2         Sul           18          7        1        2         9         5          2          7
+  357    JddAbril      2        3        4       Nordeste        9           6        1        2         7         2          2          1
+  358    JddAbril      1        2        2       Sudeste         8           4        1        2        14         4          2          8
+  359    JddAbril      1        3        2       Nordeste        25          7        1        2        10         5          2
+  360     VDalva       1        1        1       Nordeste        1           4        1        4        12         3          2          4
+  361     VDalva       1        2        1       Nordeste        2           5        1        1        18         4          2          5
+  362      V1010       2        1        1       Sudeste         16          4        2                            2          2
+  363      V1010       2        2        2       Sudeste         23          4        2                  9         2          2          3
+  364      V1010       2        3        2       Sudeste         14          5        1        1        12         4          1          4
+  365      V1010       1        1        2       Nordeste        2           2        2                 10         2          2          5
+  366      V1010       1        4        2       Nordeste        26          5        1        1         9         2          2          9
+  367      V1010       2        1        1       Nordeste        6           6        1        1        17         5          2          8
+  368      V1010       2        1        1       Sudeste         17          6        2                 14         4          2          11
+  369      V1010       2        3        1       Nordeste        24          8        2                  7         4          2          1
+  370      V1010       2        2        1       Nordeste        18          3        1        1         7         3          2          4
+  372    JddAbril      1        2        1       Sudeste         8           1        2                 14         2          2          6
+  373    JddAbril      2        4        2       Nordeste        1           6        2                 12         3          2          5
+  375    JddAbril      2        4        1       Sudeste         7           2        1        4        12         2          2
+  377    JddAbril      2        1        1       Nordeste        3           5        2                            2          1
+  378      V1010       1        1        1       Sudeste         23          9        2                 18         6          2
+  379      V1010       1        4        2       Nordeste        42          3        3                 10         5          2          1
+  380      V1010       1        2        2       Sudeste         29          2        1        4        12         4          2          10
+  381      V1010       1        4        2       Sudeste         49          6        1        1         7         4          2          8
+  382      V1010       2        2        2       Sudeste         22          5        2                 17         4          2          8
+  383      V1010       2        1        2       Sudeste         24          5        2                 17         4          2          7
+  384      V1010       2        1        1       Sudeste         17          8        1        4        17         5          2
+  385      V1010       1        2        2       Sudeste         32          4        1        1        18         5          2          5
+  386      V1010       1        1        1       Sudeste         21          1        1        4        14         2          1          7
+  387      V1010       2        3        2       Nordeste        22          6        1        4        20         5          2          6
+  390      V1010       2        4        2       Nordeste        24          8        3        4        11         2          2          1
+  391      V1010       2        4        1       Nordeste        48          1        3                 10         1          2          1
+  392      V1010       2        3        1       Nordeste        27          6        1        3         8         4          2          2
+  393    JddAbril      2        3        1       Sudeste         1           1        2                 12         1          1          5
+  394    JddAbril      2        3        3       Nordeste        1           6        1        2        15         3          2          8
+  395    JddAbril      1        2        1       Nordeste        4           1        2                 12         1          2          6
+  500      Sapé        1        1        5       Sudeste         23          1        2                 14         1          1          5
+  501    JddAbril      2        1        1       Nordeste        5           7        2                            4          1
+  502    JddAbril      1        3        2       Nordeste        4           4        1        1         8         4          2          1
+  503    JddAbril      2        2        2       Nordeste        8           3        1        1        18         4          2          6
+  504    JddAbril      1        1        1       Nordeste        1           7        1        1         7         2          2          4
+  505    JddAbril      2        3        3       Sudeste         10          4        2                 10         2          2          4
+  506    JddAbril      2        1        2       Nordeste        2           5        1        2        14         2          2          2
+  507    JddAbril      2        2        2       Nordeste        10          5        3                 16         5          2          8
+  508    JddAbril      1        3        5       Nordeste        8           5        1        1        12         3          2          5
+  510    JddAbril      1        3        2       Sudeste         42          1        1        4         5         5          1          8
+  511    JddAbril      1        1        1       Nordeste        14          7        2                            4          1
+  512    JddAbril      1        3        2       Nordeste        8           6        1        2         8         4          2          7
+  513    JddAbril      1        3        2       Sudeste         35          5        1        2        20         4          2          3
+  514    JddAbril      2        1        1       Nordeste        1           5        1        2         9         5          2
+  515    JddAbril      2        3        1       Nordeste        2           2        2                 12         1          2
+  516    JddAbril      1        1        1       Nordeste        8           3        1        2        11         3          1
+  517    JddAbril      2        2        2       Nordeste        13          3        2                 13         2          2          4
+  518    JddAbril      1        2        5       Nordeste        10          3        1        4        13         3          2          4
+  519    JddAbril      1        1        2       Nordeste        3           3        1        1        17         3          2          6
+  520    JddAbril      1        3        5       Nordeste        3           3        1        1        12         3          2          4
+  521    JddAbril      2        2        5       Nordeste        12          4        1        1        13         4          2          2
+  522    JddAbril      1        2        1       Nordeste        3           1        1        4        16         4          2          5
+  523    JddAbril      2        1        2       Nordeste        2           3        2                 12         2          2          8
+  524    JddAbril      2        2        1         Sul           11          5        2                  7         1          2          6
+  525    JddAbril      1        1        1       Nordeste        2           2        1        1        22         2          2          1
+  526    JddAbril      2        1        2       Sudeste         19          3        2                 16         2          2          5
+  527    JddAbril      2        4        4       Nordeste        48          7        1        4        16         6          2          4
+  528    JddAbril      1        3        1       Nordeste        3           4        1        1        12         2          2          1
+  529    JddAbril      1        2        2       Sudeste         26          6        1        4        13         3          2          5
+  530    JddAbril      2        1        1       Sudeste         14          10       2                            2          2
+  531    JddAbril      1        2        2       Nordeste        10          3        1        2        17         4          1          11
+  532    JddAbril      2        4        4       Sudeste         45          1        1        3        35         1          2          4
+  533    JddAbril      2        1        2       Nordeste        5           3        1        4         9         2          2          4
+  534    JddAbril      1        2        2       Sudeste         27          7        1        1        14         4          1          8
+  535    JddAbril      1        4        2       Sudeste         19          1        1        2        13         3          2
+  3120    VDalva       1        2        1       Nordeste        10          1        1        1        16         3          2          4
+  3122    VDalva       2        2        5       Nordeste        25          2        2                  8         3          2          5
+  3130    VDalva       1        4        3       Nordeste        22          2        3                  5         1          2
+  3132    VDalva       2        3        1       Nordeste        12          8        2                 15         3          2          1
+  3142    VDalva       1        1        1       Sudeste         14          3        2                            2          2
+  3152    VDalva       2        4        4       Nordeste        20          5        1        4        13         3          2          2
+  3162    VDalva       1        2        1       Sudeste         10          1        1        4        19         3          2          3
+  3172    VDalva       1        2        2       Nordeste        4           5        1        1        18         2          2          5
+  3182    VDalva       2        2        1       Sudeste         30          5        1        4        18         3          2          2
+  3192    VDalva       1        1        1       Sudeste         9           6        2                            4          2
+  3202    VDalva       1        1        1       Sudeste         9           6        2                            3          1
+  3212    VDalva       2        1        1       Sudeste         17          3        2                            4          2
+  3282    VDalva       1        1        2       Sudeste         22          7        1        4        12         5          2          8
+  3292    VDalva       2        2        1       Sudeste         27          5        1        4        15         4          2          5
+  3312    VDalva       1        4        2       Nordeste        20          4        1        4        14         5          2          4
+  3322    VDalva       2        3        3         Sul           7           4        1        1        10         4          2          5
+  3332    VDalva       1        1        1       Sudeste         16          5        2                 15         2          1
+  3352    VDalva       1        2        2       Nordeste        18          5        1        2        12         4          2          5
+  3362    VDalva       1        4        2       Nordeste        1           8        1        4        13         3          2          10
+  3372    VDalva       2        1        2       Sudeste         22          5        1        4        15         4          2          4
+  3382    VDalva       1        2        2       Sudeste         20          4        2                 14         1          2          4
+  3472    VDalva       2        4        2       Nordeste        20          8        1        4        15         4          2          3
+  3482    VDalva       2        1        5       Sudeste         18          2        2                 12         3          2          6
+  3492    VDalva       2        3        1       Sudeste         29          7        2                 16         2          2          3
+  3502    VDalva       2        1        5       Nordeste        3           3        1        4        19         4          2          2
+  3512    VDalva       2        3        2       Nordeste        11          8        2                 11         1          2
+  3522    VDalva       2        1        1       Sudeste         20          3        1        2        15         4          2          6
+  3532    VDalva       1        2        5       Nordeste        15          4        2        4        11         2          2          5
+  3542    VDalva       1        1        1       Sudeste         19          6        2                 14         4          2
+  3562    VDalva       1        1        1       Sudeste         20          7        2                 14         3          2          10
+  3572    VDalva       1        1        1       Sudeste         20          4        1        4        12         2          2          5
+  3592    VDalva       1        1        1       Nordeste        6           5        1        4                   2          2          2
+  3622    VDalva       1        3        1       Nordeste        15          1        1        4         9         4          2          4
+  3632    VDalva       1        1        1       Sudeste         16          7        1        4        17         3          2          3
+  3642    VDalva       1        1        1       Sudeste         20          6        4                            3          2          10
+  3662    VDalva       1        1        1       Sudeste         19          8        1        4        18         2          1
+  3702    VDalva       2        4        4       Nordeste        16          4        2                  9         1          2

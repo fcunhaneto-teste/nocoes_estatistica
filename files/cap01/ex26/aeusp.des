@@ -1,0 +1,54 @@
+Dados contidos no arquivo de nome aeusp.txt
+
+As informações referem-se a uma pesquisa realizada pela Associação dos
+Educadores da USP (AEUSP), sobre aspectos sócio-econômicos e culturais
+de comunidades de baixa renda da região do Butantã, São Paulo. Sendo
+um conjunto de dados reais, poderão aparecer incoerências oriundas de
+equívocos na digitação ou na coleta de dados. Nestes casos, adote uma
+alternativa que permita contornar a dificuldade encontrada.
+
+
+coluna 1: Número do questionário (Num).
+coluna 2: Comunidade (Comun).
+coluna 3: Sexo (Sexo): 
+	1: masculino
+	2: feminino
+coluna 4: Faixas de idade, em anos (Idade):
+	1: de 14 (inclusive) a 25 (exclusive)
+	2: de 25 (inclusive) a 35 (exclusive)
+	3: de 35 (inclusive) a 45 (exclusive)
+	4: 45 anos ou mais
+coluna 5: Estado Civil (Ecivil):
+	1: solteiro
+	2: casado
+	3: divorciado
+	4: viúvo
+	5: outro
+coluna 6: Região de Procedência (Reproce).
+coluna 7: Tempo de residência em São Paulo, em anos (Temposp).
+coluna 8: Número de residentes na casa (Resid).
+coluna 9: Trabalho (Trab):
+	1: sim
+	2: não
+	3: aposentado
+coluna 10: Tipo de trabalho, só para os que responderam trabalham (Ttrab):
+	1: empregado com carteira
+	2: empregado sem carteira
+	3: profissional liberal
+	4: autônomo
+	5: rural
+coluna 11: Idade que começou a trabalhar, em anos (Itrab).
+coluna 12: Renda familiar em faixas de reais (Renda):
+	1: de 0 (inclusive) a 150 (exclusive)
+	2: de 150 (inclusive) a 300 (exclusive)
+	3: de 300 (inclusive) a 450 (exclusive)
+	4: de 450 (inclusive) a 900 (exclusive)
+	5: de 900 (inclusive) a 1500 (exclusive)
+	6: 1500 ou mais
+coluna 13: Acesso a computador (Acompu):
+	1: sim
+	2: não
+coluna 14: Série em que parou de estudar (Serief):
+	em branco: não parou de estudar
+	1 a 8: séries do ensino fundamental
+	9 a 12: séries do ensino médio

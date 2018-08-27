@@ -1,0 +1,13 @@
+Descrição das variáveis do arquivo AREAS.TXT
+
+
+Id		Identificação da observação no arquivo
+Bloco		Bloco a que pertence o apartamento
+Andar		Andar onde o apartamento está situado
+Final		Número identificando a posição do apto. no andar
+Sala		Área da sala, em m2
+Cozinha	Área da cozinha, em m2
+Banheiro	Área do banheiro, em m2
+Dorm		Área do dormitório, em m2
+Rachad	Ocorrência de rachaduras no apto: 0 - Não, 1- Sim
+Infiltr	Ocorrência de infiltrações no apto: 0 - Não, 1 - Sim
