@@ -12,4 +12,3 @@ print(s.describe())
 plt.boxplot(s)
 plt.show()
 plt.close()
-

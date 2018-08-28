@@ -8,3 +8,5 @@ s = df['Peso']
 plt.figure(figsize=(10,8))
 plt.boxplot(s)
 plt.show()
+plt.close()
+
