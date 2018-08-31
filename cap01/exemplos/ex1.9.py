@@ -56,5 +56,7 @@ plt.xlabel('Distribuição')
 plt.ylabel('Peso')
 plt.xticks([1, 2, 3], ['T', 'F', 'M'])
 
-plt.savefig('peso_distr.png')
+# plt.savefig('peso_distr.png')
+plt.show()
 plt.close()
+
